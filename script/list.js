@@ -11,4 +11,5 @@ function List(id, name, createdDate, completed){
     
 }
 
+let list = []
 
